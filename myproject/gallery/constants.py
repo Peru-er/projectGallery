@@ -1,0 +1,6 @@
+
+THUMB_SIZE = (150, 150)
+MEDIUM_SIZE = (600, 400)
+LARGE_SIZE = (1200, 800)
+
+ALT_TEMPLATE = 'Project image {}'
